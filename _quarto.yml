@@ -4,6 +4,14 @@ project:
 website:
   title: "Sonaxy Mohanty"
   favicon: "images/profile.jpg"
+  page-footer: 
+    right: |
+      [GitHub Repo](https://github.com/Sonaxy/Portfolio)
+    center: |
+      [Contact: Sonaxy Mohanty](sonaxy.mohanty2012@gmail.com)
+    left: |
+      Made with [Quarto](https://quarto.org/)
+  
   navbar:
     left: 
       - text: Home
