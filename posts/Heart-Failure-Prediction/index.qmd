@@ -1,0 +1,11 @@
+---
+title: "Heart Failure Prediction"
+author: "Sonaxy Mohanty"
+date: "2022-04-26"
+categories: [news, code, analysis]
+image: "image.png"
+links:
+  - icon: github
+    text: GitHub
+    href: https://github.com/Sonaxy/Heart_Failure_Prediction
+---

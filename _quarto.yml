@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Sonaxy Mohanty"
+  favicon: "images/profile.jpg"
+  navbar:
+    left: 
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Resume
+        href: resume.qmd
+        
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sonaxy-mohanty-51012359/
+      - icon: github
+        href: https://github.com/Sonaxy
+        
+  page-footer: 
+    center: |
+      [Contact: Sonaxy Mohanty](mailto:sonaxy.mohanty2012@gmail.com)
+    left: |
+      Made with [Quarto](https://quarto.org)
+    right: |
+      [Github Code Repo]
+        
+format:
+  html:
+    theme: 
+      light: cosmo
+      dark: [cosmo, theme_dark_custom.scss]
+      
+
+    
+
+
+

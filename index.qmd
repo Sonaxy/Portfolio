@@ -1,0 +1,27 @@
+---
+title: "Sonaxy Mohanty"
+image: images/profile.jpg
+about:
+  template: jolla
+  image-width: 20em
+  image-shape: round
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sonaxy-mohanty-51012359/
+    - icon: github
+      text: GitHub
+      href: https://github.com/Sonaxy
+    - icon: envelope
+      text: Contact Me
+      href: mailto:sonaxy.mohanty2012@gmail.com
+
+---
+
+Hello, My name is Sonaxy Mohanty.
+
+I currently hold the position of Senior FP&A Insights Advisor within the Chickasaw Nation. My role involves supporting the Investment Management and Cash Management and Allocation Committee by assessing and examining capital projects/investments.
+
+I have a strong background in Business Intelligence, Data Warehousing and Machine Learning. I specialize in Data Wrangling techniques, Statistical Analysis, and Predictive Modeling. I am well versed with developing Regression models, Decision Trees, Bagging and Boosting algorithms, Time Series Forecasting models, Clustering approach, and more. 
+
+With over 8 years of experience, I am skilled in Python, R, PL/SQL, and Microsoft Power BI. I am currently expanding my skill set to include Quarto and R Shiny.

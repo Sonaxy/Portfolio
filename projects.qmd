@@ -1,0 +1,88 @@
+## Heart Failure Prediction
+
+::: columns 
+::: {.column width="55%"} 
+We are aware of the fact that cardiovascular diseases (CVDs) are the leading cause of death worldwide, killing an estimated 17.9 million people each year, accounting for 31% of all deaths. Heart failure is a common event caused by CVD. People with CVD or who are at high risk need early detection and management wherein a machine learning model can be of great help.
+
+In this project, we highlight the hypotheses, experiments, and results of experiments designed to create a machine learning model.... [Check out the GitHub Repository](https://github.com/Sonaxy/Heart_Failure_Prediction){target="_blank"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](images/heartfailure.png)
+:::
+:::
+
+
+## Online Retail-Sales Prediction
+
+::: columns 
+::: {.column width="40%"}
+![](images/onlineretail.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"} 
+In many businesses, identifying which customers will make a purchase (and when), is a critical exercise. This is true for both brick-and-mortar outlets and online stores. The website traffic data acquired from an online retailer and provides information on customer’s website site visit behavior. Customers may visit the store multiple times, on multiple days, with or without making a purchase.
+
+The goal is to predict how much sales revenue can be expected from each customer. The variable revenue lists the amount of money that a customer spends on a given visit...... [Check out the GitHub Repository](https://github.com/Sonaxy/Online-retail-sales-prediction){target="_blank"}
+:::
+:::
+
+
+## Hospital Readmission
+
+::: columns 
+::: {.column width="55%"} 
+A hospital readmission is an episode when a patient who had been discharged from a hospital is admitted again within a specified time interval. Readmission rates have increasingly been used as an outcome measure in health services research and as a quality benchmark for health systems. Hospital readmission rates were formally included in reimbursement decisions for the Centers for Medicare and Medicaid Services (CMS) as part of the Patient Protection and Affordable Care Act (ACA) of 2010, which penalizes health systems with higher than expected readmission rates through the Hospital Readmission Reduction Program. 
+
+The real-world clinical care data used in this project comes from multiple hospitals across the United States for several years...... [Check out the GitHub Repository](https://github.com/Sonaxy/Hospital-Readmission){target="_blank"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](images/hospitalreadmission.png)
+:::
+:::
+
+
+## Delivery Service ETA Prediction
+
+::: columns 
+::: {.column width="40%"}
+![](images/deliveryeta.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"} 
+Companies like DoorDash or GrubHub give customers an estimated time of delivery for food and beverage orders. Most consumers may expect a few conditions to affect the time to deliver, but there may be many circumstances that impact the delivery time. For example, if the algorithm knows that there is a crash impeding traffic between the major routes of the customer and the delivery service, then that may impact the transport time. Overall, providing accurate estimates to the customer will help manage expectations, which may lead to retained customers.
+
+This detailed analysis aims to predict estimated delivery times for a food delivery service...... [Check out the GitHub Repository](https://github.com/Sonaxy/Delivery-Service-ETA-Prediction){target="_blank"}
+:::
+:::
+
+
+## Prediction of Gas Prices in Brazil
+
+::: columns 
+::: {.column width="55%"} 
+The Brazilian National Agency of Petroleum, Natural Gas and Bio fuels releases weekly reports of gas, diesel and other fuels prices used in transportation across the country. These gas prices can be very unpredictable and experience significant change frequently. Understanding the variables that affect these prices and the autocorrelation in the data can improve understanding of future prices in the market and enable forecasting of gasoline prices. 
+
+The primary task for this project is developing a forecasting model for future Brazilian gas prices. Several benchmarks models are implemented...... [Check out the GitHub Repository](https://github.com/Sonaxy/Gas_Prices_in_Brazil){target="_blank"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](images/gasprices.png)
+:::
+:::
