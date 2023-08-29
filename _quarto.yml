@@ -19,13 +19,6 @@ website:
       - icon: github
         href: https://github.com/Sonaxy
         
-  page-footer: 
-    center: |
-      [Contact: Sonaxy Mohanty](mailto:sonaxy.mohanty2012@gmail.com)
-    left: |
-      Made with [Quarto](https://quarto.org)
-    right: |
-      [Github Code Repo](https://github.com/Sonaxy/Portfolio)
         
 format:
   html:
