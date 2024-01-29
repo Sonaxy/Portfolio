@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Sonaxy Mohanty"
+  title: "Sonaxy Mohanty" 
   favicon: "images/profile.jpg"
   page-footer: 
     right: |
